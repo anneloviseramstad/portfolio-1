@@ -240,13 +240,7 @@ p {
   z-index: 1;
 }
 
-.image.secondary {
-  width: 50%; /* Endre størrelse for testing */
-  position: absolute;
-  top: 10px;
-  left: 150px;
-  z-index: 2;
-}
+
 
 .card-content {
   padding: 20px;
